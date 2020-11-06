@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "Giới thiệu thế giới Minecraft Realms",
+        "desc": "Điều này chủ yếu được cho là thực hành, và không phải bất cứ điều gì thực sự hữu hình hoặc hữu ích.",
+        "start": "Khởi đầu"
+    },
+
+    "ui":{
+        "house_more_info": "Thông tin thêm về ngôi nhà này",
+        "builder": "Người xây dựng"
+    },
+
+    "select":{
+        "beetle_house": "Ngôi nhà của Beetlepilled",
+        "chaspen_house": "Nhà của Chaspen",
+        "ion_house": "Nhà của Ion",
+        "kai_house": "Nhà của Kai",
+        "jesse_house": "Nhà của Jesse",
+        "fantoro_house": "Nhà của Fantoro"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "Minecraft Realms dünya vitrini",
+        "desc": "Bunun çoğunlukla pratik olması gerekiyordu ve gerçekte somut veya yararlı bir şey değil.",
+        "start": "Başlat"
+    },
+
+    "ui":{
+        "house_more_info": "Bu ev hakkında daha fazla bilgi",
+        "builder": "Oluşturucu"
+    },
+
+    "select":{
+        "beetle_house": "Beetlepilled'in evi",
+        "chaspen_house": "Chaspen'in evi",
+        "ion_house": "İon'un evi",
+        "kai_house": "Kai'nin evi",
+        "jesse_house": "Jesse'nin evi",
+        "fantoro_house": "Fantoro'nun evi"
+    }
+}

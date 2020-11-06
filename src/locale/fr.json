@@ -1,0 +1,32 @@
+{
+    "main":{
+        "title": "Vitrine mondiale de Minecraft Realms",
+        "desc": "Ceci est principalement censé être de la pratique, et non rien de réellement tangible ou utile.",
+        "start": "Début"
+    },
+
+    "ui":{
+        "house_more_info": "Plus d'infos sur cette maison",
+        "builder": "Constructeur"
+    },
+
+    "select":{
+        "beetle_house": "Maison d'Beevopilled",
+        "chaspen_house": "Maison d'Chaspen",
+        "ion_house": "Maison d'Ion",
+        "kai_house": "Maison d'Kai",
+        "jesse_house": "Maison d'Jesse",
+        "fantoro_house": "Maison d'Fantoro"
+    },
+
+    "settings":{
+        "aa": "Anti crénelage",
+        "aa-desc": "Lisse les bords irréguliers, désactivez cette option si le matériel est faible.",
+        "pf": "Mode Performance",
+        "pf-desc": "La distance de rendu est considérablement réduite",
+        "fps": "Compteur de fréquence d'images",
+        "fps-desc": "Compteur de fréquence d'images",
+        "dbg": "Les informations de débogage",
+        "dbg-desc": "Active le menu de développement, affiche des informations supplémentaires telles que des appels de tirage, etc."
+    }
+}

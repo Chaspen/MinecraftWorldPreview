@@ -1,0 +1,27 @@
+
+body {
+    margin:0;
+}
+
+#debug-ui {
+    
+    position:fixed;
+    background-color: red;
+    padding: 5px;
+    cursor: grab;
+}
+
+#canvas {
+    background-color: #00ffff;
+    opacity: 1
+}
+
+#element {
+    font-size: 50px;
+    height: 0px;
+    position:fixed;
+    background-color: red;
+    margin-left: 45%;
+    float: left;
+   
+}

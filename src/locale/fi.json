@@ -1,0 +1,32 @@
+{
+    "main":{
+        "title": "Minecraft Realms -maailmaesittely",
+        "desc": "Tämän oletetaan olevan enimmäkseen käytäntöä, eikä mitään konkreettista tai hyödyllistä.",
+        "start": "Alkaa"
+    },
+
+    "ui":{
+        "house_more_info": "Lisätietoja tästä talosta",
+        "builder": "Rakentaja"
+    },
+
+    "select":{
+        "beetle_house": "Beevopilledin talo",
+        "chaspen_house": "Chaspenin talo",
+        "ion_house": "Ionin talo",
+        "kai_house": "Kaiin talo",
+        "jesse_house": "Jesse talo",
+        "fantoro_house": "Fantoron talo"
+    },
+
+    "settings":{
+        "aa": "Anti-Aliasing",
+        "aa-desc": "Tasoittaa rosoiset reunat, poista tämä käytöstä, jos laitteisto on heikko.",
+        "pf": "Suoritustila",
+        "pf-desc": "Renderöinnin etäisyys on huomattavasti pienempi",
+        "fps": "Kehysnopeuden laskuri",
+        "fps-desc": "Kehysnopeuden laskuri",
+        "dbg": "Virheenkorjaustiedot",
+        "dbg-desc": "Käynnistää kehitysvalikon, näyttää lisätietoja, kuten vetopyynnöt jne"
+    }
+}

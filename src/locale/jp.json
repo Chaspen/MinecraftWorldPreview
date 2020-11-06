@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "MinecraftRealmsワールドショーケース",
+        "desc": "これは主に実践であると考えられており、実際に具体的または有用なものではありません。",
+        "start": "開始"
+    },
+
+    "ui":{
+        "house_more_info": "この家についての詳細",
+        "builder": "ビルダー"
+    },
+
+    "select":{
+        "beetle_house": "カブトムシの家",
+        "chaspen_house": "チャスペンの家",
+        "ion_house": "イオンの家",
+        "kai_house": "カイの家",
+        "jesse_house": "ジェシーの家",
+        "fantoro_house": "ファントロの家"
+    }
+}

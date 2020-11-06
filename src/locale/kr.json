@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "Minecraft Realms 세계 쇼케이스",
+        "desc": "이것은 대부분 연습이어야하며 실제로 가시적이거나 유용한 것은 아닙니다.",
+        "start": "스타트"
+    },
+
+    "ui":{
+        "house_more_info": "이 집에 대한 추가 정보",
+        "builder": "빌더"
+    },
+
+    "select":{
+        "beetle_house": "비틀 필드의 집",
+        "chaspen_house": "체스 펜의 집",
+        "ion_house": "이온의 집",
+        "kai_house": "카이의 집",
+        "jesse_house": "제시의 집",
+        "fantoro_house": "판 토로의 집"
+    }
+}

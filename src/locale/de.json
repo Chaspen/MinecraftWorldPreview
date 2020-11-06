@@ -1,0 +1,32 @@
+{
+    "main":{
+        "title": "Minecraft Realms Weltschaufenster",
+        "desc": "Dies soll meistens Übung sein und nichts, was wirklich greifbar oder nützlich ist.",
+        "start": "Start"
+    },
+
+    "ui":{
+        "house_more_info": "Weitere Infos zu diesem Haus",
+        "builder": "Baumeister"
+    },
+
+    "select":{
+        "beetle_house": "Beevopilleds Haus",
+        "chaspen_house": "Chaspens Haus",
+        "ion_house": "Ions Haus",
+        "kai_house": "Kai's Haus",
+        "jesse_house": "Jesses Haus",
+        "fantoro_house": "Fantoros Haus"
+    },
+
+    "settings":{
+        "aa": "Kantenglättung",
+        "aa-desc": "Glättet gezackte Kanten und schaltet diese bei schwacher Hardware aus.",
+        "pf": "Leistungsmodus",
+        "pf-desc": "Der Renderabstand wird erheblich verringert",
+        "fps": "Framerate-Zähler",
+        "fps-desc": "Framerate-Zähler",
+        "dbg": "Debug-Informationen",
+        "dbg-desc": "Schaltet das Entwicklungsmenü ein, zeigt zusätzliche Informationen wie Drawcalls usw."
+    }
+}

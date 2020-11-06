@@ -1,0 +1,32 @@
+{
+    "main":{
+        "title": "Minecraft realm world showcase",
+        "desc": "This is mostly supposed to be practice, and not anything actually tangible or useful.",
+        "start": "Start"
+    },
+
+    "ui":{
+        "house_more_info": "More info about this house",
+        "builder": "Builder"
+    },
+
+    "select":{
+        "beetle_house": "Beevopilled's house",
+        "chaspen_house": "Chaspen's house",
+        "ion_house": "Ion's house",
+        "kai_house": "Kai's house",
+        "jesse_house": "Jesse's house",
+        "fantoro_house": "Fantoro's house"
+    },
+
+    "settings":{
+        "aa": "Anti-Aliasing",
+        "aa-desc": "Smooths out jagged edges, turn this off if on weak hardware.",
+        "pf": "Performance Mode",
+        "pf-desc": "Render distance is turned down significantly",
+        "fps": "Frame-Rate counter",
+        "fps-desc": "Frame-Rate counter",
+        "dbg": "Debug Info",
+        "dbg-desc": "Turns on development menu, shows additional Info such as drawcalls, etc"
+    }
+}

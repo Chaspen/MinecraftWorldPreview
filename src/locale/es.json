@@ -1,0 +1,32 @@
+{
+    "main":{
+        "title": "Escaparate del mundo de Minecraft Realms",
+        "desc": "Se supone que esto es principalmente una práctica, y no algo realmente tangible o útil.",
+        "start": "Comienzo"
+    },
+
+    "ui":{
+        "house_more_info": "Más información sobre esta casa",
+        "builder": "Constructor"
+    },
+
+    "select":{
+        "beetle_house": "El casa de Beevopilled",
+        "chaspen_house": "La casa de Chaspen",
+        "ion_house": "El casa de Ion",
+        "kai_house": "El casa de Kai",
+        "jesse_house": "La casa de Jesse",
+        "fantoro_house": "El casa de Fantoro"
+    },
+
+    "settings":{
+        "aa": "Anti-Aliasing",
+        "aa-desc": "Suaviza los bordes irregulares, apáguelo si tiene hardware débil.",
+        "pf": "Modo de desempeño",
+        "pf-desc": "La distancia de renderizado se reduce significativamente",
+        "fps": "Frame-Rate counter",
+        "fps-desc": "Contador de velocidad de fotogramas",
+        "dbg": "Información de depuración",
+        "dbg-desc": "Active el menú de desarrollo, muestre información adicional, como drawcalls, etc."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "Minecraft Realms-wereldshowcase",
+        "desc": "Dit is meestal bedoeld als oefening, en niet iets dat echt tastbaar of nuttig is.",
+        "start": "Begin"
+    },
+
+    "ui":{
+        "house_more_info": "Meer info over deze woning",
+        "builder": "Bouwer"
+    },
+
+    "select":{
+        "beetle_house": "Beevopilled's huis",
+        "chaspen_house": "Chaspen's huis",
+        "ion_house": "Ion's huis",
+        "kai_house": "Kai's huis",
+        "jesse_house": "Jesse's huis",
+        "fantoro_house": "Fantoro's huis"
+    }
+}

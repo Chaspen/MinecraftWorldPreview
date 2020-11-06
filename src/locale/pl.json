@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "Prezentacja świata Minecraft Realms",
+        "desc": "Ma to być głównie praktyka, a nie nic namacalnego lub użytecznego.",
+        "start": "Początek"
+    },
+
+    "ui":{
+        "house_more_info": "Więcej informacji o tym domu",
+        "builder": "Budowniczy"
+    },
+
+    "select":{
+        "beetle_house": "Dom Beevopilled",
+        "chaspen_house": "Dom Chaspena",
+        "ion_house": "Dom Iona",
+        "kai_house": "Dom Kaia",
+        "jesse_house": "Dom Jessego",
+        "fantoro_house": "Dom Fantoro"
+    }
+}

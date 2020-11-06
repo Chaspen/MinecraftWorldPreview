@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "Vetrina mondiale di Minecraft Realms",
+        "desc": "Questo dovrebbe essere per lo più pratica e non qualcosa di realmente tangibile o utile.",
+        "start": "Inizio"
+    },
+
+    "ui":{
+        "house_more_info": "Maggiori informazioni su questa casa",
+        "builder": "Costruttore"
+    },
+
+    "select":{
+        "beetle_house": "Il casa di Beevopilled",
+        "chaspen_house": "La casa di Chaspen",
+        "ion_house": "Il casa di Ion",
+        "kai_house": "Il casa di Kai",
+        "jesse_house": "La casa di Jesse",
+        "fantoro_house": "Il casa di Fantoro"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "Pameran dunia Minecraft Realms",
+        "desc": "Ini sebagian besar diharapkan sebagai praktik, dan bukan sesuatu yang nyata atau berguna.",
+        "start": "Mulailah"
+    },
+
+    "ui":{
+        "house_more_info": "Info lebih lanjut tentang rumah ini",
+        "builder": "Pembangun"
+    },
+
+    "select":{
+        "beetle_house": "Rumah Beevopilled",
+        "chaspen_house": "Rumah Chaspen",
+        "ion_house": "Rumah Ion",
+        "kai_house": "Rumah Kai",
+        "jesse_house": "Rumah Jesse",
+        "fantoro_house": "Rumah Fantoro"
+    }
+}

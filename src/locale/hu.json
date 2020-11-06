@@ -1,0 +1,21 @@
+{
+    "main":{
+        "title": "Minecraft Realms világ kirakat",
+        "desc": "Ennek főleg állítólag gyakorlatnak kell lennie, és nem tulajdonképpen valami kézzelfoghatónak vagy hasznosnak.",
+        "start": "Rajt"
+    },
+
+    "ui":{
+        "house_more_info": "További információ erről a házról",
+        "builder": "Építész"
+    },
+
+    "select":{
+        "beetle_house": "Beevopilled háza",
+        "chaspen_house": "Chaspen háza",
+        "ion_house": "Ion háza",
+        "kai_house": "Kai háza",
+        "jesse_house": "Jesse háza",
+        "fantoro_house": "Fantoro háza"
+    }
+}
