@@ -2,7 +2,7 @@
 
 
 var loader = new GLTFLoader();				
-loader.load( '/media/mdl/obj-test.glb', function ( gltf ) {              
+loader.load( './media/mdl/obj-test.glb', function ( gltf ) {              
 var object = gltf.scene;				
 gltf.scene.scale.set( 8, 8, 8 );			   
 gltf.scene.position.x = 0;				    //Position (x = right+ left-) 
